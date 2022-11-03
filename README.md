@@ -308,7 +308,7 @@ function salvarUsuario() {
 
 ## Teste o projeto 👁‍🗨
 
-Download do projeto para testar em sua máquina: xxx
+Download do projeto para testar em sua máquina: https://github.com/AugustoMello09/Spring-Boot-REST-API-/archive/refs/heads/main.zip
 
 ## Entre em contado 👋
 
